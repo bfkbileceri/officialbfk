@@ -121,8 +121,8 @@ h2{
     width: 150px;
     font-size: 18px;
     font-weight: bold;
-    color: red;
-    background: black;
+    color: black;
+    background: red;
     border: solid 1px red;
     cursor: pointer;
     outline: none;
